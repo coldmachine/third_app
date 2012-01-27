@@ -1,4 +1,6 @@
 ThirdApp::Application.routes.draw do
+  resources :standings
+
   resources :users
 
   # The priority is based upon order of creation:

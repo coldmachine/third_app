@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  position: 
+  club: MyString
+  points: 1
+  gamesPlayed: 1
+  goalsFor: 1
+  goalsAgainst: 1
+
+two:
+  position: 
+  club: MyString
+  points: 1
+  gamesPlayed: 1
+  goalsFor: 1
+  goalsAgainst: 1
